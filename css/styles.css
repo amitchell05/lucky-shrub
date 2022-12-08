@@ -63,6 +63,10 @@ article {
   flex: 1;
 }
 
+h1, h2 {
+  margin-bottom: 1rem;
+}
+
 footer {
   display: flex;
   justify-content: space-evenly;
