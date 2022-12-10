@@ -9,12 +9,13 @@ body {
   margin-bottom: 3rem;
   margin-left: 5%;
   margin-right: 5%;
-  font-family: sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 h2 {
   font-size: 1.5rem;
   margin-bottom: 1rem;
+  color: hsl(176, 57%, 24%);
 }
 
 .promotion-heading {
@@ -30,6 +31,7 @@ header > img {
 nav {
   margin-top: 2rem;
   margin-bottom: 2rem;
+  background-color: hsl(176, 57%, 24%);
 }
 
 nav ul {
@@ -46,6 +48,7 @@ nav li {
 
 nav a {
   text-decoration: none;
+  color: hsl(0, 0%, 100%);
 }
 
 section {
@@ -53,6 +56,8 @@ section {
   gap: 2rem;
   flex-direction: column;
   margin-bottom: 2rem;
+  background-color: hsl(72, 97%, 89%);
+  color: hsl(176, 57%, 24%);
 }
 
 @media (min-width: 768px) {
@@ -69,6 +74,7 @@ footer {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  color: hsl(176, 57%, 24%);
 }
 
 @media (min-width: 768px) {
