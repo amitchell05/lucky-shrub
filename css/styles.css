@@ -59,6 +59,8 @@ nav a:hover {
 .promotion img {
   border-radius: 0.25rem;
   opacity: 0.4;
+  height: 31.25rem;
+  object-fit: cover;
 }
 
 .promotion div {
